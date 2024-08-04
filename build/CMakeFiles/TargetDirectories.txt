@@ -1,0 +1,3 @@
+C:/Users/shann/Downloads/CG/CGIP/build/CMakeFiles/FreeGLUTDemo.dir
+C:/Users/shann/Downloads/CG/CGIP/build/CMakeFiles/edit_cache.dir
+C:/Users/shann/Downloads/CG/CGIP/build/CMakeFiles/rebuild_cache.dir

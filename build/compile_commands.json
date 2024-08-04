@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/shann/Downloads/CG/CGIP/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -IC:/Users/shann/Downloads/freeglut/include -g -std=gnu++1z -o CMakeFiles\\FreeGLUTDemo.dir\\main.cpp.obj -c C:\\Users\\shann\\Downloads\\CG\\CGIP\\main.cpp",
+  "file": "C:\\Users\\shann\\Downloads\\CG\\CGIP\\main.cpp",
+  "output": "CMakeFiles\\FreeGLUTDemo.dir\\main.cpp.obj"
+}
+]
